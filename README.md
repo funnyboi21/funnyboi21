@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding
 - 📫 How to reach me The fast way is my Discord by DM's
 - 😄 Pronouns: He/Him
-- ⚡ fact: I'm bad at coding
+- ⚡ fact: I have NO idea what I'm doing.
 
 <!---
 funnyboi21/funnyboi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
